@@ -149,7 +149,11 @@ The interactive Excel dashboard presents the main KPIs and visualizations coveri
 - Customer Rating Distribution
 - New vs. Returning Customers
 
-Dashboard screenshots are available in the `Dashboard/` folder.
+### Dashboard Preview
+
+![Dashboard Page 1](Dashboard/Dashboard_Page_1.png)
+
+![Dashboard Page 2](Dashboard/Dashboard_Page_2.png)
 
 ## Recommendations
 
